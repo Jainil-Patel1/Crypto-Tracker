@@ -1,2 +1,2 @@
 # Crypto-Tracker
-Crypto Currency Tracker made using react and CoinGecko API 
+Crypto Currency Tracker made using ReactJS and CoinGecko API 
